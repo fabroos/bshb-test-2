@@ -2,6 +2,7 @@
 
 .basehub/
 
+
 # dependencies
 /node_modules
 /.pnp
